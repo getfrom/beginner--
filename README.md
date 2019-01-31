@@ -1,2 +1,2 @@
 # beginner--
-These codes are used for collecting information by myself, welcome to communicate!
+These codes are just out of interest, welcome to communicate!
